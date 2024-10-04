@@ -1,4 +1,4 @@
-from src/main.py import sum_two
+from src.main import sum_two
 
 
 def test_sum_two():
